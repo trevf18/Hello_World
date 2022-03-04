@@ -3,10 +3,10 @@ I am currently a junior at the University of Iowa's Tippie College of Business. 
 
 
 # Project Title
-**bold text** Hello World Repository
+**Hello World Repository**
 
 ## Description
-*italicized text* This project is for practice using github. 
+*This project is for practice using github.*
 
 ### How to Run Program
 1. README.md
